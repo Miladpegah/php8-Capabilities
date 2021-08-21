@@ -1,4 +1,2 @@
-it is first branch
-lorem ipsum
-
+it is first branch for testing git branches
 
