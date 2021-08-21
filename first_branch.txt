@@ -1,4 +1,3 @@
-it is first branch fore test
-lorem ipsum
-
+it is first branch for testing git branches
+first_branch
 
